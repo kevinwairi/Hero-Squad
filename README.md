@@ -13,3 +13,6 @@ Each hero can only participate in one Squad at a time.
 4. VelocityTemplateEngine
 5. HTML & Custom CSS.
 
+## Lincensed by MIT 
+Follow the link to read the License.
+https://github.com/kevinwairi/Hero-Squad/blob/master/LICENSE
